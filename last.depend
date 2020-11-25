@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567621525 source:c:\users\hp\desktop\programs\last\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+
